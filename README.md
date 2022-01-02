@@ -2,7 +2,7 @@
 
 
 
-#Manual Partition
+# Manual Partition
 1. root
   1. Type - EXT4
   2. Mount Point - /
@@ -18,7 +18,7 @@
   2. Type - Swap
   3. Flag - Swap
 
-#Install macOS Simple KVM
+# Install macOS Simple KVM
 
 https://github.com/foxlet/macOS-Simple-KVM
 
